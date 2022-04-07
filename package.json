@@ -25,6 +25,7 @@
     "test": "jasmine schemas/**/*test.js"
   },
   "dependencies": {
+    "@cloudkube/ui": "file:../../cloudkube.io/cloudkube-ui",
     "@nuxt/content": "^1.14.0",
     "core-js": "^3.15.1",
     "express": "^4.17.1",

@@ -1,20 +1,22 @@
 // @import '../node_modules/@cloudkube/ui/src/scss/main.scss';
 
-@import 'vars';
-@import 'normalize';
-@import 'layout';
-@import 'typography';
-@import 'buttons';
-@import 'forms';
-@import 'header';
-@import 'footer';
-@import 'navigation';
-@import 'tables';
-@import 'questions';
-@import 'articles';
-@import 'score';
-@import 'results';
-@import 'print';
+@import '@cloudkube/ui';
+
+// @import 'vars';
+// @import 'normalize';
+// @import 'layout';
+// @import 'typography';
+// @import 'buttons';
+// @import 'forms';
+// @import 'header';
+// @import 'footer';
+// @import 'navigation';
+// @import 'tables';
+// @import 'questions';
+// @import 'articles';
+// @import 'score';
+// @import 'results';
+// @import 'print';
 
 .has-scroll-anchor {
 	scroll-margin-top: 120px;
